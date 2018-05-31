@@ -6,10 +6,20 @@
     <description>Recent content on Fiona Paine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ethics in Economics</title>
+      <link>/posts/ethics-in-economics/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/ethics-in-economics/</guid>
+      <description>The American Economics Association needs a code of ethics and conduct. If economists want their work treated with the same respect and consideration as engineering, science, or medicine they must create and achieve certain standards.
+There is a joke that goes if you get 3 economists in a room you will get 5 opinions. This criticism, while fair, isn’t actually unique to economics. In engineering, there are multiple solutions to the same problem.</description>
+    </item>
     
     <item>
       <title>Theme Demo</title>
@@ -41,57 +51,12 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/posts/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/hugo-template-primer/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/posts/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/posts/migrate-to-hugo-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/migrate-to-hugo-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
       <title>About Fiona</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Education  M.S in Math and Statistics from Georgetown University (expected 2019) Non-degree graduate classes George Washington Univeristy Statistics Department (2018) MIT B.S in Mathematical Economics and Electrical Engineering (2017) Barrington High School (2013)  Work Experience  Research Assistant at Federal Reserve Board: Division of International Finance (Global Capital Markets) Reserach Assistant for Sara Ellison MIT Economoics Department Reserach Assitant for Michael Mehling MIT Center for Energy and Enviromental Policy Reserach Product Engineering Intern at Analog Devices Inc.</description>
+      <description>Education  M.S in Math and Statistics &amp;ndash; Georgetown University (expected 2019) Non-degree graduate classes &amp;ndash; George Washington Univeristy Statistics Department (2018) B.S in Mathematical Economics &amp;ndash; Massachusetts Institute of Technology (2017) B.S in Electrical Engineering &amp;ndash; Massachusetts Institute of Technology (2017) Barrington High School (2013)  Work Experience  Research Assistant &amp;ndash; Federal Reserve Board: Division of International Finance (Global Capital Markets) Reserach Assistant &amp;ndash; Sara Ellison, MIT Economoics Department Reserach Assitant &amp;ndash; Michael Mehling, MIT Center for Energy and Enviromental Policy Reserach Product Engineering Intern &amp;ndash; Analog Devices Inc.</description>
     </item>
     
     <item>
