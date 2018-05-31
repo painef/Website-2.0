@@ -1,5 +1,5 @@
 +++
-title = "About Fiona"
+title = "About"
 slug = "about"
 +++
 
@@ -19,7 +19,7 @@ slug = "about"
   - Languages: Pyhton, R, Matlab, Stata
   - Data analysis and Visualization
 
-You can view my full resume here:
+You can view my full resume here: [RESUME](/resume.pdf)
 
 ## Highlights of Past Course Work
 
