@@ -7,10 +7,17 @@ languagecode = "en"
 
 paginate = 20
 canonifyurls = true
+# Custom CSS
+custom_css = []
+
+avatarurl = "images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
+
+footercontent = "Enter a text here." # Add footer content
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+
 
 [permalinks]
     posts = "posts/:title/"
@@ -21,6 +28,10 @@ pygmentscodefencesguesssyntax = true
     description = "Fiona Paine's personal website"
     keywords = "blog,developer,personal"
     info = "Economist and Data Scientist"
+    disqusShortname = "yourdiscussshortname"
+    pic = "images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
+
+    footercontent = "Enter a text here." # Add footer content
 
 [[params.social]]
     name = "Github"
@@ -43,7 +54,7 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "Writing"
     weight = 2
-    url  = "/projects/"
+    url  = "/Writing/"
     
 [[menu.main]]
     name = "Other"

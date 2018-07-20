@@ -16,7 +16,7 @@ slug = "about"
   - Reserach Assitant -- Michael Mehling, MIT Center for Energy and Enviromental Policy Reserach 
   - Product Engineering Intern -- Analog Devices Inc. in Automotive MEMS
 + Skills
-  - Languages: Pyhton, R, Matlab, Stata
+  - Languages: Python, R, Matlab, Stata
   - Data analysis and Visualization
 
 You can view my full resume here: [RESUME](/resume.pdf)
