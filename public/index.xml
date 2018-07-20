@@ -6,10 +6,19 @@
     <description>Recent content on Fiona Paine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Art of Debate</title>
+      <link>/projects/art-debate/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/art-debate/</guid>
+      <description>Someone told me the other day that I’m not good at arguing. Upon reflection, I was forced to agree. So in the spirit of self-improvement I decided to write a series of pieces practicing the art of persuasion. Alas, like my New Year’s resolution to “workout more”, this exercise was never started. The problem was that I first needed to answer the root question: why do I want to be good at arguing?</description>
+    </item>
     
     <item>
       <title>Ethics in Economics</title>
