@@ -6,10 +6,19 @@
     <description>Recent content in Writings on Fiona Paine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/writing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five Country Indicators</title>
+      <link>/writing/indicators/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/indicators/</guid>
+      <description>Big data has arrived….and people are drowning in it. One solution is to create a black box. A machine learning algorithm that can synthesize all the data and spit out an answer to any question. But how can non-machines (aka humans) understand and analyze the glut of numbers? The key is to look at indicators. Numbers that can serve as proxies for larger trends and concepts. GDP? An indicator of economic health.</description>
+    </item>
     
     <item>
       <title>The Art of Debate</title>
@@ -28,24 +37,6 @@
       <guid>/writing/ethics-econ/</guid>
       <description>The American Economics Association needs a code of ethics and conduct. If economists want their work treated with the same respect and consideration as engineering, science, or medicine they must create and achieve certain standards.
 There is a joke that goes if you get 3 economists in a room you will get 5 opinions. This criticism, while fair, isn’t actually unique to economics. In engineering, there are multiple solutions to the same problem.</description>
-    </item>
-    
-    <item>
-      <title>Theme Demo</title>
-      <link>/writing/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/writing/theme-demo/</guid>
-      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
-This is bold text
-This is italic text
-This is italic text
-Deleted text
- Block quotes are written like so.
-They can span multiple paragraphs, if you like.
- Some text, and some code and then a nice plain link with title.
-and then
- Create a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces:  Marker character change forces new list start: Ac tristique libero volutpat at  Very easy!</description>
     </item>
     
   </channel>

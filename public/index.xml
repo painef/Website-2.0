@@ -6,10 +6,19 @@
     <description>Recent content on Fiona Paine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five Country Indicators</title>
+      <link>/writing/indicators/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/writing/indicators/</guid>
+      <description>Big data has arrived….and people are drowning in it. One solution is to create a black box. A machine learning algorithm that can synthesize all the data and spit out an answer to any question. But how can non-machines (aka humans) understand and analyze the glut of numbers? The key is to look at indicators. Numbers that can serve as proxies for larger trends and concepts. GDP? An indicator of economic health.</description>
+    </item>
     
     <item>
       <title>The Art of Debate</title>
@@ -32,10 +41,10 @@ There is a joke that goes if you get 3 economists in a room you will get 5 opini
     
     <item>
       <title>Theme Demo</title>
-      <link>/writing/theme-demo/</link>
+      <link>/post/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/writing/theme-demo/</guid>
+      <guid>/post/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text

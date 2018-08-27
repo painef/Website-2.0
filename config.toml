@@ -27,7 +27,7 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "Fiona Paine's personal website"
     keywords = "blog,developer,personal"
-    info = "Economist and Data Scientist"
+    #info = "Economics"
     disqusShortname = "yourdiscussshortname"
     pic = "images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
 
@@ -51,15 +51,15 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "/about/"
 
-[[menu.main]]
-    name = "Writing"
-    weight = 2
-    url  = "/Writing/"
+#[[menu.main]]
+#    name = "Writing"
+#    weight = 2
+#    url  = "/Writing/"
     
-[[menu.main]]
-    name = "Other"
-    weight = 3
-    url = "/test/"
+#[[menu.main]]
+#    name = "Other"
+#    weight = 3
+#    url = "/test/"
 
 
 
