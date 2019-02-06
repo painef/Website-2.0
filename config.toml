@@ -2,16 +2,16 @@ baseurl = "/"
 title = "Fiona Paine"
 
 theme = "hugo-coder"
-
+#theme = "coder-portfolio"
 languagecode = "en"
 
 paginate = 20
 canonifyurls = true
 # Custom CSS
 custom_css = []
-
-avatarurl = "images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
-
+rtl = true
+#avatarurl = "" #images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
+itemscentered = true
 footercontent = "Enter a text here." # Add footer content
 
 pygmentsstyle = "b2"
@@ -27,9 +27,9 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "Fiona Paine's personal website"
     keywords = "blog,developer,personal"
-    #info = "Economics"
+    #info = "Economic PhD Student. I am interested in macrofinance and asset pricing."
     disqusShortname = "yourdiscussshortname"
-    pic = "images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
+    pic = "images/fiona_plain.jpg" # Contain the path of the optionnal avatar in the static folder
 
     footercontent = "Enter a text here." # Add footer content
 
@@ -37,10 +37,10 @@ pygmentscodefencesguesssyntax = true
     name = "Github"
     weight = 1
     url = "https://github.com/painef"
-[[params.social]]
-    name = "Twitter"
-    weight = 2
-    url = "https://twitter.com/paine_f"
+#[[params.social]]
+#    name = "Twitter"
+#    weight = 2
+#    url = "https://twitter.com/paine_f"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
@@ -56,10 +56,10 @@ pygmentscodefencesguesssyntax = true
 #    weight = 2
 #    url  = "/Writing/"
     
-#[[menu.main]]
-#    name = "Other"
-#    weight = 3
-#    url = "/test/"
+[[menu.main]]
+    name = "Research"
+    weight = 3
+    url = "/research/"
 
 
 

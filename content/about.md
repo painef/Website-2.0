@@ -21,19 +21,6 @@ slug = "about"
 
 You can view my full resume here: [RESUME](/resume.pdf)
 
-## Highlights of Past Course Work
-
-* Graduate 
- - Financial Mathematics
- - Advanced Time Series Analysis
- - Mathematical Statistics
-* Undergraduate
-  - Real Analysis
-  - Probability and Random Variables
-  - Econometrics
-  - Statistics, Computation, and Applications
-  - Economic Applications of Game Theory
-  - Machine Learning
 
 ## Personal Information
 
