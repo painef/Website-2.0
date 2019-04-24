@@ -46,16 +46,16 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Education  M.S in Math and Statistics &amp;ndash; Georgetown University (expected 2019) Non-degree graduate classes &amp;ndash; George Washington Univeristy Statistics Department (2018) B.S in Mathematical Economics &amp;ndash; Massachusetts Institute of Technology (2017) B.S in Electrical Engineering &amp;ndash; Massachusetts Institute of Technology (2017) Barrington High School (2013)  Work Experience  Research Assistant &amp;ndash; Federal Reserve Board: Division of International Finance (Global Capital Markets) Reserach Assistant &amp;ndash; Sara Ellison, MIT Economoics Department Reserach Assitant &amp;ndash; Michael Mehling, MIT Center for Energy and Enviromental Policy Reserach Product Engineering Intern &amp;ndash; Analog Devices Inc.</description>
+      <description>Education  M.S in Math and Statistics &amp;ndash; Georgetown University Non-degree graduate classes &amp;ndash; George Washington Univeristy Statistics Department (2018) B.S in Mathematical Economics &amp;ndash; Massachusetts Institute of Technology (2017) B.S in Electrical Engineering &amp;ndash; Massachusetts Institute of Technology (2017) Barrington High School (2013)  Work Experience  Research Assistant &amp;ndash; Federal Reserve Board: Division of International Finance (Global Capital Markets) Research Assistant &amp;ndash; Sara Ellison, MIT Economics Department Research Assistant &amp;ndash; Michael Mehling, MIT Center for Energy and Enviromental Policy Reserach Product Engineering Intern &amp;ndash; Analog Devices Inc.</description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>/test/</link>
+      <link>/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/test/</guid>
-      <description></description>
+      <guid>/other/</guid>
+      <description>Backgammon</description>
     </item>
     
     <item>
@@ -64,7 +64,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/research/</guid>
-      <description> Working Papers  (February 2019) Designing gaps as early warning indicators: Accuracy, predictive power, and robustness with Daniel O. Beltran and Mohammad R. Jahan-Parvar  </description>
+      <description> Working Papers  (February 2019) Designing gaps as early warning indicators: Accuracy, predictive power, and robustness with Daniel O. Beltran and Mohammad R. Jahan-Parvar  Presentations and Seminars  (February 2019) International Banking and Finance Lunch Workshop (IBF) at Federal Reserve Board Slides  </description>
     </item>
     
   </channel>

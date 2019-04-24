@@ -27,11 +27,11 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "Fiona Paine's personal website"
     keywords = "blog,developer,personal"
-    #info = "Economic PhD Student. I am interested in macrofinance and asset pricing."
+    info = "" #"I am a PhD student in finance at MIT Sloan."
     disqusShortname = "yourdiscussshortname"
     pic = "images/fiona_plain.jpg" # Contain the path of the optionnal avatar in the static folder
 
-    footercontent = "Enter a text here." # Add footer content
+    footercontent = "" # Add footer content
 
 [[params.social]]
     name = "Github"
@@ -60,6 +60,9 @@ pygmentscodefencesguesssyntax = true
     name = "Research"
     weight = 3
     url = "/research/"
-
+[[menu.main]]
+    name = "Other"
+    weight = 4
+    url  = "/Other/"
 
 
