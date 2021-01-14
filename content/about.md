@@ -20,9 +20,7 @@ slug = "about"
   - Data analysis and visualization
 
 
-## Personal Information
 
-I grew up in Rhode Island. I love sailing and other water sports. I like to run for fun and compete in the occasional road race.
 
 
 
