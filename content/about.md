@@ -9,7 +9,6 @@ slug = "about"
   - Non-degree graduate classes -- George Washington Univeristy Statistics Department (2018)
   - B.S in Mathematical Economics -- Massachusetts Institute of Technology (2017)
   - B.S in Electrical Engineering -- Massachusetts Institute of Technology (2017)
-  - Barrington High School (2013)
 + Work Experience
   - Research Assistant -- Federal Reserve Board: Division of International Finance (Global Capital Markets)
   - Research Assistant -- Sara Ellison, MIT Economics Department
