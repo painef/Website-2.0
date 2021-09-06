@@ -46,10 +46,10 @@ pygmentscodefencesguesssyntax = true
     weight = 3
     url = "https://www.linkedin.com/in/fiona-paine-216a3a8a/"
     
-[[menu.main]]
-    name = "About"
-    weight = 1
-    url = "/about/"
+#[[menu.main]]
+#    name = "About"
+#    weight = 1
+#    url = "/about/"
 
 #[[menu.main]]
 #    name = "Writing"
@@ -58,12 +58,12 @@ pygmentscodefencesguesssyntax = true
     
 [[menu.main]]
     name = "Research"
-    weight = 2
+    weight = 1
     url = "/research/"
     
-[[menu.main]]
-    name = "Other"
-    weight = 3
-    url  = "/Other/"
+#[[menu.main]]
+#    name = "Other"
+#    weight = 3
+#    url  = "/Other/"
 
 
