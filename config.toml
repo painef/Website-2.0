@@ -29,7 +29,7 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,personal"
     info = "I am a PhD student in finance at MIT Sloan."
     disqusShortname = "yourdiscussshortname"
-    pic = "images/fiona_plain.jpg" # Contain the path of the optionnal avatar in the static folder
+    pic = "" # Contain the path of the optionnal avatar in the static folder
 
     footercontent = "" # Add footer content
 
