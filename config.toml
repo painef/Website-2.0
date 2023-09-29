@@ -10,7 +10,7 @@ canonifyurls = true
 # Custom CSS
 custom_css = []
 rtl = true
-avatarurl = "" #images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
+#avatarurl = "" #images/fiona.jpg" # Contain the path of the optionnal avatar in the static folder
 itemscentered = true
 footercontent = " " # Add footer content
 
@@ -29,7 +29,7 @@ pygmentscodefencesguesssyntax = true
     keywords = "blog,developer,personal"
     info = "I am a PhD student in finance at MIT Sloan."
     disqusShortname = "yourdiscussshortname"
-    pic = "" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
+    # pic = "" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
 
     footercontent = "" # Add footer content
 
