@@ -27,7 +27,7 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "Fiona Paine's personal website"
     keywords = "blog,developer,personal"
-    info = "I am a PhD student in finance at MIT Sloan."
+    info = "I am a PhD student in Finance at MIT Sloan."
     disqusShortname = "yourdiscussshortname"
     pic = "images/fiona_pro.jpg" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
 
@@ -38,23 +38,19 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/painef"
 #[[params.social]]
-#    name = "Twitter"
+#    name = "SSRN"
 #    weight = 2
-#    url = "https://twitter.com/paine_f"
+#    url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3940444"
+
 [[params.social]]
-    name = "LinkedIn"
+    name = "MIT Page"
     weight = 3
-    url = "https://www.linkedin.com/in/fiona-paine-216a3a8a/"
+    url = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
     
 #[[menu.main]]
 #    name = "About"
 #    weight = 1
 #    url = "/about/"
-
-#[[menu.main]]
-#    name = "Writing"
-#    weight = 2
-#    url  = "/Writing/"
     
 [[menu.main]]
     name = "Research"
