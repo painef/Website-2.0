@@ -26,25 +26,30 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Fiona Paine"
     description = "Fiona Paine's personal website"
-    keywords = "blog,developer,personal"
-    info = "I am a PhD student in Finance at MIT Sloan."
-    disqusShortname = "yourdiscussshortname"
+    keywords = " "
+    info = "I'm a PhD student in financial economics at MIT Sloan. I will be on the 2024-2025 Job Market. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
+    info2 = " "
+    jobmarketpaperurl = ""
+    jobmarketpapertitle = "Not on Terra FIRRMA: Foreign Investment In US Startups and Innovation (Link Coming Soon)"
+    jobmarketpaperabstract = " "
+    disqusShortname = " "
     pic = "images/fiona_pro.jpg" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
 
-    footercontent = "" # Add footer content
+    footercontent = " " # Add footer content
 
-[[params.social]]
-    name = "Github"
-    weight = 1
-    url = "https://github.com/painef"
 #[[params.social]]
-#    name = "SSRN"
-#    weight = 2
-#    url = "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3940444"
+#    name = "Github"
+#    weight = 1
+#    url = "https://github.com/painef"
+
+#[[params.social]]
+#    name = "CV"
+#    weight = 1
+#    url = ""
 
 [[params.social]]
     name = "MIT Page"
-    weight = 3
+    weight = 2
     url = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
     
 #[[menu.main]]

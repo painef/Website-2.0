@@ -1,7 +1,11 @@
 <section class="container centered">
   <div class="about">
     <h1>{{ .Site.Params.author }}</h1>
-    <body>{{ .Site.Params.info }}</body>
+    <body>{{ .Site.Params.info }}</body> <br> 
+    <body>{{ .Site.Params.info2 }}</body> <br> 
+     <body> My job market paper: </body> <br> 
+    <body><b>{{ .Site.Params.jobmarketpapertitle }}</b></body> <br> 
+     <p align="left">{{ .Site.Params.jobmarketpaperabstract }}</p>
     <ul>
       {{ range sort .Site.Params.social }}
       <li><a href="{{ .url }}">{{ .name }}</a></li>
@@ -9,7 +13,5 @@
     </ul>
     <img src="{{ .Site.Params.pic }}" alt="Me">
   </div>
-  
-  
   
 </section>
