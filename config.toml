@@ -42,10 +42,10 @@ pygmentscodefencesguesssyntax = true
 #    weight = 1
 #    url = "https://github.com/painef"
 
-#[[params.social]]
-#    name = "CV"
-#    weight = 1
-#    url = ""
+[[params.social]]
+    name = "CV"
+    weight = 1
+    url = "https://drive.google.com/file/d/1lGO4e2mXBzw_-snh4Ggflp0iL6_k06a2/view?usp=sharing"
 
 [[params.social]]
     name = "MIT Page"
