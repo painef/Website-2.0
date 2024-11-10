@@ -29,8 +29,8 @@ pygmentscodefencesguesssyntax = true
     keywords = " "
     info = "I'm a PhD student in financial economics at MIT Sloan. I will be on the 2024-2025 Job Market. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
     info2 = " "
-    jobmarketpaperurl = ""
-    jobmarketpapertitle = "Not on Terra FIRRMA: Foreign Investment In US Startups and Innovation (Link Coming Soon)"
+    jobmarketpaperurl = "https://drive.google.com/file/d/1DZ_xX92SgBKOmgTY479Ss8ns0g930bex/view?usp=drive_link"
+    jobmarketpapertitle = "Not on Terra FIRRMA: Foreign Investment In US Startups and Innovation"
     jobmarketpaperabstract = " "
     disqusShortname = " "
     pic = "images/fiona_pro.jpg" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder

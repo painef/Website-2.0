@@ -5,7 +5,7 @@ slug = "research"
   
 
 ##### Working Papers 
-- *Job Market Paper*: __Not on Terra FIRRMA: Foreign Investment in US Startups and Innovation__ (Link Coming Soon) 
+- *Job Market Paper*: [Not on Terra FIRRMA: Foreign Investment in US Startups and Innovation (Link)](https://drive.google.com/file/d/1DZ_xX92SgBKOmgTY479Ss8ns0g930bex/view?usp=drive_link)
 
 - [Municipal Cyber Risk (Link)](https://drive.google.com/file/d/1GofQM1oKtBk7VkcRzlWJTxH2lwm1AUci/view?usp=sharing)  with Jonathan Jensen  
 *Presentations: (2023) WEIS Workshop (2022) MIT Finance PhD Workshop*  
