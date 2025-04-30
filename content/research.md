@@ -11,9 +11,6 @@ slug = "research"
 *Presentations: (2023) WEIS Workshop (2022) MIT Finance PhD Workshop*  
 
 
-- [Big Data and Firm Risk (Link)](https://drive.google.com/file/d/1ni0PzFo5QoM3huX_TrLk8ObfS_DKcxIr/view?usp=drive_link)
-
-
 ##### Work in Progress 
 -  __How do Private Equity Funds Communicate to their Investors?__ with Josh Lerner and Antoinette Schoar 
 -  __Attitudes to Debt Enforcement: The Role of Moral Values__ with Antoinette Schoar and David Thesmar
