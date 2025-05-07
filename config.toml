@@ -37,34 +37,34 @@ pygmentscodefencesguesssyntax = true
 
     footercontent = " " # Add footer content
 
-#[[params.social]]
-#    name = "Github"
-#    weight = 1
-#    url = "https://github.com/painef"
-
 [[params.social]]
-    name = "CV"
+    name = ""
     weight = 1
-    url = "https://drive.google.com/file/d/11aXPG0ZTBKT_wB6XdgGflB2iMzwTC5OY/view?usp=drive_link"
+    url = "https://fionapaine.com/Research"
 
-[[params.social]]
-    name = "MIT Page"
-    weight = 2
-    url = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
-    
-#[[menu.main]]
-#    name = "About"
+#[[params.social]]
+#    name = "CV"
 #    weight = 1
-#    url = "/about/"
+#    url = "https://drive.google.com/file/d/11aXPG0ZTBKT_wB6XdgGflB2iMzwTC5OY/view?usp=drive_link"
+
+#[[params.social]]
+#    name = "MIT Page"
+#    weight = 2
+#    url = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
     
 [[menu.main]]
     name = "Research"
     weight = 1
     url = "/research/"
     
-#[[menu.main]]
-#    name = "Other"
-#    weight = 3
-#    url  = "/Other/"
+[[menu.main]]
+    name = "CV"
+    weight = 1
+    url = "https://drive.google.com/file/d/11aXPG0ZTBKT_wB6XdgGflB2iMzwTC5OY/view?usp=drive_link"
+    
+[[menu.main]]
+    name = "MIT Page"
+    weight = 3
+    url  = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
 
 
