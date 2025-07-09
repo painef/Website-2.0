@@ -27,11 +27,8 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "personal website"
     keywords = " "
-    info = "I'm a PhD student in finance at MIT Sloan. I will be joining Texas A&M University Mays Business School in Fall 2025. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
+    info = "I'm an Assistant Professor at Texas A&M University Mays Business School. I received a Finance PhD from MIT in June of 2025. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
     info2 = " "
-  #  jobmarketpaperurl = "https://drive.google.com/file/d/1DZ_xX92SgBKOmgTY479Ss8ns0g930bex/view?usp=drive_link"
-  #  jobmarketpapertitle = "Not on Terra FIRRMA: Foreign Investment In US Startups and Innovation"
-  #  jobmarketpaperabstract = " "
     disqusShortname = " "
     pic = "images/fiona_pro.jpg" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
 
@@ -42,16 +39,6 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://fionapaine.com/Research"
 
-#[[params.social]]
-#    name = "CV"
-#    weight = 1
-#    url = "https://drive.google.com/file/d/11aXPG0ZTBKT_wB6XdgGflB2iMzwTC5OY/view?usp=drive_link"
-
-#[[params.social]]
-#    name = "MIT Page"
-#    weight = 2
-#    url = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
-    
 [[menu.main]]
     name = "Research"
     weight = 1
@@ -63,8 +50,8 @@ pygmentscodefencesguesssyntax = true
     url = "https://drive.google.com/file/d/11aXPG0ZTBKT_wB6XdgGflB2iMzwTC5OY/view?usp=drive_link"
     
 [[menu.main]]
-    name = "MIT Page"
-    weight = 3
-    url  = "https://mitsloan.mit.edu/programs/phd/fiona-paine"
+    name = "University Page"
+    weight = 1
+    url  = "https://mays.tamu.edu/directory/fiona-paine/"
 
 
