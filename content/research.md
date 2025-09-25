@@ -6,7 +6,7 @@ slug = "research"
 
 ##### Working Papers 
 
-- [The Startup Valley of Death and Measuring Innovation]()
+- [The Startup Valley of Death and Measuring Innovation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521639)
 
 - [Not on Terra FIRRMA: Foreign Investment in US Startups and Innovation (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508418)
 
