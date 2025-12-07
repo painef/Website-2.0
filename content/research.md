@@ -6,18 +6,20 @@ slug = "research"
 
 ##### Working Papers 
 
+- [(JMP) Not on Terra FIRRMA: Foreign Investment in US Startups and Innovation (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508418)
+
 - [The Startup Valley of Death and Measuring Innovation (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521639)
 
-- [Not on Terra FIRRMA: Foreign Investment in US Startups and Innovation (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5508418)
-
--  [Attitudes to Debt: The Role of Moral Values (Link)](https://www.nber.org/papers/w34092) with Antoinette Schoar and David Thesmar
+- [Attitudes to Debt: The Role of Moral Values (Link)](https://www.nber.org/papers/w34092) with Antoinette Schoar and David Thesmar
 
 
 ##### Work in Progress 
 -  __How do Private Equity Funds Communicate to their Investors?__ with Josh Lerner and Antoinette Schoar 
 
+- __Decomposing Entrepreneurial Entry Over the Business Cycle__ with Ting Xu
+
 ##### Published
-- [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu \
+- [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu 
 *(NBER Entrepreneurship and Innovation Policy and the Economy, Volume 5)*
 
 ##### Resting Papers
