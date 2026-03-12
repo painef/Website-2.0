@@ -16,8 +16,6 @@ slug = "research"
 ##### Work in Progress 
 -  __How do Private Equity Funds Communicate to their Investors?__ with Josh Lerner and Antoinette Schoar 
 
-- __Decomposing Entrepreneurial Entry Over the Business Cycle__ with Ting Xu
-
 ##### Published
 - [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu 
 *(NBER Entrepreneurship and Innovation Policy and the Economy, Volume 5)*
