@@ -27,7 +27,7 @@ pygmentscodefencesguesssyntax = true
     author = "Fiona Paine"
     description = "personal website"
     keywords = " "
-    info = "I will be joining Carnegie Mellon University in the Summer of 2026. I am an Assistant Professor at Texas A&M University. I received a Finance PhD from MIT in June of 2025. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
+    info = "I am an Assistant Professor at Carnegie Mellon University. I received a Finance PhD from MIT in June of 2025. My research interests are in Corporate Finance, Entrepreneurship, Private Equity, and Venture Capital."              
     info2 = " "
     disqusShortname = " "
     pic = "images/fiona_pro.jpg" # images/fiona_plain.jpg Contain the path of the optionnal avatar in the static folder
@@ -49,9 +49,5 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://drive.google.com/file/d/1Mp5zcJVAI363aCDbzhdLiZYtiM1qL1qT/view?usp=drive_link"
     
-[[menu.main]]
-    name = "University Page"
-    weight = 1
-    url  = "https://mays.tamu.edu/directory/fiona-paine/"
 
 
