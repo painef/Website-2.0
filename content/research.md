@@ -12,10 +12,8 @@ slug = "research"
 
 - [Attitudes to Debt: The Role of Moral Values (Link)](https://www.nber.org/papers/w34092) with Antoinette Schoar and David Thesmar
 
-
-##### Work in Progress 
--  __Communicating Performance: Textual and
-Financial Disclosures in Private Equity__ with Josh Lerner and Antoinette Schoar 
+-  [Communicating Performance: Textual and
+Financial Disclosures in Private Equity (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7532840) with Josh Lerner and Antoinette Schoar 
 
 ##### Published
 - (March 2026) [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu 
