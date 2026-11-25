@@ -17,8 +17,8 @@ slug = "research"
 Financial Disclosures in Private Equity (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7532840) with Josh Lerner and Antoinette Schoar 
 
 ##### Published
-- (March 2026) [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu 
-*(NBER Entrepreneurship and Innovation Policy and the Economy, Volume 5)*
+- (March 2026) [Should Governments Restrict Foreign Investments in Startups? (Link)](https://www.nber.org/books-and-chapters/entrepreneurship-and-innovation-policy-and-economy-volume-5/should-governments-restrict-foreign-investments-startups) with Richard Townsend and Ting Xu\
+  (*NBER Entrepreneurship and Innovation Policy and the Economy, Volume 5*)
 
 -  (Pre-PhD) [Optimizing composite early warning indicators (Link)](https://www.sciencedirect.com/science/article/abs/pii/S106294082400175X) with Daniel O. Beltran, Vihar M. Dalal, and Mohammad R. Jahan-Parvar  \
 (*North American Journal of Economics and Finance*)
