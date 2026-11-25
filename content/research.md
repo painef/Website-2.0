@@ -10,7 +10,8 @@ slug = "research"
 
 - [The Startup Valley of Death and Measuring Innovation (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521639)
 
-- [Attitudes to Debt: The Role of Moral Values (Link)](https://www.nber.org/papers/w34092) with Antoinette Schoar and David Thesmar
+- [Attitudes to Debt: The Role of Moral Values (Link)](https://www.nber.org/papers/w34092) with Antoinette Schoar and David Thesmar\
+  (*R&R Review of Financial Studies*)
 
 -  [Communicating Performance: Textual and
 Financial Disclosures in Private Equity (Link)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7532840) with Josh Lerner and Antoinette Schoar 
